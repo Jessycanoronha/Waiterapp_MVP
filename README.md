@@ -1,4 +1,4 @@
-# 🍽️ Sistema de Gerenciamento para Garçons
+# 🍽️ Sistema de Gerenciamento para Garçons - WaiterApp
 
 Este repositório reúne os wireframes e o backlog do projeto de um sistema voltado para agilizar o atendimento em restaurantes, oferecendo aos garçons uma interface intuitiva e eficiente para o gerenciamento de mesas e pedidos.
 
